@@ -1,0 +1,45 @@
+Body
+
+Poses.0.16
+	FootL
+
+Poses.0.15
+	FootR
+
+Poses.0.14
+	KneeL
+
+Poses.0.13
+	KneeR
+
+Poses.0.12
+	TorsoL
+
+Poses.0.11
+	TorsoR
+
+Poses.0.10
+	PalmL
+
+Poses.0.9
+	PalmR
+
+Poses.0.8
+	ElbowL
+
+Poses.0.7
+	ElbowR
+
+Poses.0.6
+	ShoulderL
+
+Poses.0.5
+	ShoulderR
+
+Face
+
+No need to track in Yoga LoL
+EarL EarR EyeL EyeR Nose
+
+Scaling X-Axis - 0.380 to 0.560
+Scaling Y-Axis - 0.520 t0 1.156
