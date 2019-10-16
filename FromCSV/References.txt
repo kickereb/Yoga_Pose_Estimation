@@ -1,3 +1,6 @@
+This reference sheet is generated for comparing the coordinates and specifications from "Warrior Pose" with excellent posture. We use that data as reference and compare it to the user's performance.
+
+
 Body
 
 Poses.0.16
@@ -35,11 +38,3 @@ Poses.0.6
 
 Poses.0.5
 	ShoulderR
-
-Face
-
-No need to track in Yoga LoL
-EarL EarR EyeL EyeR Nose
-
-Scaling X-Axis - 0.380 to 0.560
-Scaling Y-Axis - 0.520 t0 1.156
