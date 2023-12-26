@@ -7,7 +7,7 @@ The Yoga Pose Estimator is an interactive application that utilizes the PoseNet 
 - **Real-Time Pose Estimation**: Uses PoseNet to track the user's pose landmarks in real-time.
 - **Yoga Pose Recognition**: Compares the user's pose to a database of yoga poses, starting with the warrior pose as a demonstrated example.
 - **Visualization**: Displays the pose estimation and alignment feedback in the Processing development environment.
-<br>![](https://github.com/kickereb/Yoga_Pose_Estimation/blob/master/src/View.png)
+![](https://github.com/kickereb/Yoga_Pose_Estimation/blob/master/src/View.png)
 
 ## Installation
 To set up the Yoga Pose Estimator, follow these steps:
@@ -20,7 +20,6 @@ To set up the Yoga Pose Estimator, follow these steps:
 2. Execute the Processing sketch to open the user interface.
 3. Follow the on-screen instructions to align your pose with the yoga pose example.
 4. Receive real-time feedback on your pose and make adjustments as recommended.
-
 ![](https://github.com/kickereb/Yoga_Pose_Estimation/blob/master/src/Preview.gif)
 
 ## Contributing
