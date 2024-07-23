@@ -20,7 +20,7 @@ To set up the Yoga Pose Estimator, follow these steps:
 2. Execute the Processing sketch to open the user interface.
 3. Follow the on-screen instructions to align your pose with the yoga pose example.
 4. Receive real-time feedback on your pose and make adjustments as recommended.
-![](https://github.com/kickereb/Yoga_Pose_Estimation/blob/master/src/warrior_pose.gif)
+![](https://github.com/kickereb/Yoga_Pose_Estimation/blob/master/src/View.png)
 
 ## Contributing
 If you would like to contribute to the Yoga Pose Estimator, please fork the repository and submit a pull request with your proposed changes.
